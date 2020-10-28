@@ -5,9 +5,9 @@
 ## Results
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Paulocochile/profilebreakdown/blob/main/BidenR.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Paulocochile/profilebreakdown/blob/main/TrumpR.png?raw=true)
 
 
 ## Extra Insights
@@ -17,12 +17,20 @@
 
 ## Getting the Data
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+I found Trump and biden Tweets in the sources below:
+
+- [Trump Tweets.](https://www.kaggle.com/austinreese/trump-tweets?select=realdonaldtrump.csv)
+
+- [Biden Tweets.](https://www.kaggle.com/rohanrao/joe-biden-tweets)
+
 
 ## Labels
 
 ### Choosing Labels
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+[Trump Clustering](https://www.kaggle.com/wordcards/trump-tweets-clustering)
+
+
 ### Labeling data to train the model
 
 ## Training the Model
