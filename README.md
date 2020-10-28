@@ -5,9 +5,9 @@
 ## Results
 
 
-![alt text](https://github.com/Paulocochile/profilebreakdown/blob/main/BidenR.png?raw=true)
+![](https://raw.githubusercontent.com/Paulocochile/profilebreakdown/main/BidenR.PNG)
 
-![alt text](https://github.com/Paulocochile/profilebreakdown/blob/main/TrumpR.png?raw=true)
+![](https://raw.githubusercontent.com/Paulocochile/profilebreakdown/main/TrumpR.PNG)
 
 
 ## Extra Insights
