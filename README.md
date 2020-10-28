@@ -21,8 +21,8 @@ Doing a quick Google search, I found all the [Trump tweets](https://www.kaggle.c
 ### Choosing Labels
 
 I started by brainstorming the labels that I thought would be relevant to get.
-I saw clustering efforts made by others (i.e. [Trump Clustering](https://www.kaggle.com/wordcards/trump-tweets-clustering)) to classify tweets, and I complimented my initial labels with what I learned.
-But ultimately, it was while labeling the data that I came to the final labels. I realized some labels they didn't really tweet about (i.e., "Institutions") and found others that came up a lot (i.e., "Criticizing").
+To get more inspiration, I went through clustering efforts made by others (i.e. [Trump Clustering](https://www.kaggle.com/wordcards/trump-tweets-clustering)) and then I complimented my initial labels with what I learned.
+Ultimately, it was while labeling the data that I came to the final labels. I realized some labels they didn't really tweet about (i.e., "Institutions") and found others that came up a lot (i.e., "Criticizing").
 
 ### Labeling data to train the model
 
