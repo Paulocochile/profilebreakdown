@@ -13,10 +13,7 @@
 
 ## Getting the Data
 
-I found Trump and Biden Tweets in the sources below:
-
-- [Trump Tweets](https://www.kaggle.com/austinreese/trump-tweets?select=realdonaldtrump.csv)
-- [Biden Tweets](https://www.kaggle.com/rohanrao/joe-biden-tweets)
+Doing a quick Google search I found all the [Trump tweets](https://www.kaggle.com/austinreese/trump-tweets?select=realdonaldtrump.csv) and [Biden tweets](https://www.kaggle.com/rohanrao/joe-biden-tweets) I needed in Kaggle.
 
 
 ## Labels
