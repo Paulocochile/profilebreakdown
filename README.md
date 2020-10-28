@@ -38,7 +38,7 @@ You can find instructions to do this [here.](https://medium.com/voice-tech-podca
 
 ## Using the Model to label all tweets
 
-I had to set up a local environment and create a python script in order to use the Models I trained to label all the tweets. Some very useful links I had to use:
+I had to set up a local environment and create a [python script](https://raw.githubusercontent.com/Paulocochile/profilebreakdown/main/predict.py) in order to use the Models I trained to label all the tweets. Some very useful links I had to use:
 
 - [Before you begin](https://cloud.google.com/natural-language/automl/docs/before-you-begin?_ga=2.117550720.-828033756.1603643984)
 - [Set up your local environment](https://cloud.google.com/python/setup#linux)
@@ -46,6 +46,8 @@ I had to set up a local environment and create a python script in order to use t
 - [Using a service account to give you access to the Model](https://cloud.google.com/iam/docs/creating-managing-service-accounts#iam-service-accounts-create-python)
 - [Using a service account to give you access to the Model in video](https://www.youtube.com/watch?v=tSnzoW4RlaQ&ab_channel=GoogleCloudPlatform)
 - [Changing the API endpoint to EU if you're in EU like me](https://cloud.google.com/natural-language/automl/docs/locations)
+
+I then ran the script to get the [labeled Trump Tweets](https://raw.githubusercontent.com/Paulocochile/profilebreakdown/main/Trumpoutput.csv) and [labeled Biden Tweets](https://raw.githubusercontent.com/Paulocochile/profilebreakdown/main/Bidenoutput.csv).
 
 ## Visualizing the Results
 
